@@ -5,7 +5,6 @@ npm-debug.log
 yarn-error.log
 
 Example/
-
 .idea/
-
 react-native-simple-shimmer-*.tgz
+.npmrc

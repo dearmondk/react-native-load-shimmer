@@ -1,5 +1,5 @@
-# react-native-simple-shimmer
-![](../media/shimmer-example.gif?raw=true)
+# react-native-load-shimmer
+![](https://github.com/dearmondk/react-native-load-shimmer/blob/media/shimmer-example.gif?raw=true)
 
 Add a simple shimmer effect to any UI loading state.
 No native dependencies!

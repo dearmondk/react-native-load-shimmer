@@ -8,7 +8,7 @@
   "description": "Simple loading shimmer for React Native",
   "repository": {
     "type": "git",
-    "url": "git://github.com/oblador/react-native-shimmer.git"
+    "url": "git://github.com/dearmondk/react-native-load-shimmer.git"
   },
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "loading-screen",
     "loading"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "react": "16.11.0",
     "react-native": "0.62.2"

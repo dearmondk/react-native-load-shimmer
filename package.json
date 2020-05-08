@@ -4,7 +4,7 @@
     "name": "Kevin DeArmond",
     "email": "dearmondk@gmail.com"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple loading shimmer for React Native",
   "repository": {
     "type": "git",

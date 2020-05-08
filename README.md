@@ -7,7 +7,7 @@ No native dependencies!
 ## Installation
 
 ```sh
-yarn add react-native-simple-shimmer
+yarn add react-native-load-shimmer
 ```
 
 
@@ -71,4 +71,4 @@ const styles = StyleSheet.create({
 
 ## License
 
-[MIT License](http://opensource.org/licenses/mit-license.html). react-native-simple-shimmer is under BSD license. © Kevin DeArmond 2020 - present
+[MIT License](http://opensource.org/licenses/mit-license.html). react-native-load-shimmer is under MIT license. © Kevin DeArmond 2020 - present

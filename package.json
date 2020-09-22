@@ -4,7 +4,7 @@
     "name": "Kevin DeArmond",
     "email": "dearmondk@gmail.com"
   },
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Simple loading shimmer for React Native",
   "repository": {
     "type": "git",
@@ -27,11 +27,6 @@
   "dependencies": {
     "react": "16.11.0",
     "react-native": "0.62.2"
-  },
-  "engines": {
-    "node": "12.14.1",
-    "npm": "6.12.0",
-    "yarn": "1.22.4"
   },
   "devDependencies": {
     "@react-native-community/eslint-config": "^0.0.5",
